@@ -25,7 +25,7 @@ header {
 }
 
 .container_solid {
-  background: pink;
+  background: #F08080;
   
   /* position this container at the top of its parent element */
   top: 0;
@@ -80,7 +80,7 @@ header {
 }
 
 .container_image .title_wrapper h1 {
-  color: white;
+  color: #FDEDEC;
 }
 
 section {
